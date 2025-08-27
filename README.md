@@ -26,4 +26,4 @@ Le site est une page unique construite avec le fichier `index.html`. Il contient
 ## 🔹 Contact
 
 *   **Email :** [jacques.wu@edu.ece.fr](mailto:jacques.wu@edu.ece.fr)
-*   **LinkedIn :** [linkedin.com/in/wu-jacques](https'://www.linkedin.com/in/wu-jacques)
+*   **LinkedIn :** [linkedin.com/in/wu-jacques](https://www.linkedin.com/in/wu-jacques)
