@@ -1,6 +1,6 @@
 # Portfolio en Ligne de Jacques WU
 
-![Couverture de mon Portfolio](Couverture_Portfolio.png)
+[![Couverture de mon Portfolio](Couverture_Portfolio.png)](https://github.com/J-WU1/Portfolio/blob/main/Portfolio_Projets_JacquesWu.pdf)
 
 ## Bienvenue sur le dépôt de mon portfolio personnel !
 
