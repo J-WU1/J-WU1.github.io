@@ -1,6 +1,8 @@
 # Portfolio en Ligne de Jacques WU
 
-[![Couverture de mon Portfolio](Couverture_Portfolio.png)](https://github.com/J-WU1/Portfolio/blob/main/Portfolio_Projets_JacquesWu.pdf)
+[![Couverture de mon Portfolio](Couverture_Portfolio.png)](https://github.com/J-WU1/Portfolio/raw/main/Portfolio_Projets_JacquesWu.pdf)
+
+*Cliquez sur l'image ci-dessus pour télécharger le portfolio complet au format PDF.*
 
 ## Bienvenue sur le dépôt de mon portfolio personnel !
 
